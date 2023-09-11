@@ -14,7 +14,7 @@
 |    1    |   <a href="https://github.com/Vikash2009/Capstone-Project-4-Netflix-Movies-And-Tv-Shows-Clustering#1-introduction">   Introduction  </a>    | 
 |    2    |   <a href="https://github.com/Vikash2009/Capstone-Project-4-Netflix-Movies-And-Tv-Shows-Clustering/blob/main/README.md#2-eda-summary">   EDA Summary    </a>   | 
 |    3    | <a href="https://github.com/Vikash2009/Capstone-Project-4-Netflix-Movies-And-Tv-Shows-Clustering/blob/main/README.md#2-eda-summary"> Clustering Summary  </a> | 
-|    4    | <a href="https://github.com/shaloy-lewis/Netflix_movies_and_tv_shows_clustering#4-content-based-recommender-system-using-cosine-similarity"> Content Based Recommender System </a> |
+|    4    | <a href="https://github.com/Vikash2009/Capstone-Project-4-Netflix-Movies-And-Tv-Shows-Clustering#4-content-based-recommender-system-using-cosine-similarity"> Content Based Recommender System </a> |
 | 5 | <a href="https://github.com/shaloy-lewis/Netflix_movies_and_tv_shows_clustering#5-conclusions"> Conclusions  </a> |
 
 ![--](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
